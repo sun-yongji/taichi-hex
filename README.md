@@ -1,3 +1,5 @@
+﻿[![CI](https://github.com/sun-yongji/taichi-hex/actions/workflows/ci.yml/badge.svg)](https://github.com/sun-yongji/taichi-hex/actions/workflows/ci.yml)
+
 # TaiChi-HexAttention ⬡ 六边形拓扑注意力机制
 
 > 华为云杯2026 OPC大赛  |  太极矩阵 M4  |  Apache 2.0
